@@ -2,13 +2,14 @@
 <!--  FULL STACK DEVELOPER -->
 <!-- ===================== -->
 
-<h1 align="center">Hi 👋, I'm <span style="color:#6C63FF;">Izumi</span></h1>
-<h3 align="center">Full-Stack Developer • Code Enthusiast • Design-Driven Builder</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=160&section=header&text=Your%20Name&fontSize=48&fontColor=ffffff&desc=Full-Stack%20Developer%20•%20Design-Driven%20Builder&descAlignY=65"/>
+</p>
 
 <p align="center">
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourname"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/yourname"><img src="https://img.shields.io/badge/Twitter/X-000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yourname"><img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+  <a href="https://twitter.com/yourname"><img src="https://img.shields.io/badge/X-111?style=for-the-badge&logo=x&logoColor=white"/></a>
 </p>
 
 ---
@@ -18,8 +19,6 @@
 ```ts
 const developer = {
   role: "Full Stack Developer",
-  mindset: "Code First, Design Second",
-  passions: ["Clean UI", "Scalable Systems", "Smooth UX"],
-  coffeeLevel: "☕☕☕☕"
+  mindset: "Design First, Code Second",
+  focus: ["UI/UX", "Performance", "Scalability"],
 }
-
