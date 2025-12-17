@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourname"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/altav-husayn-282ba9218"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/yourname"><img src="https://img.shields.io/badge/Twitter/X-000?style=for-the-badge&logo=x&logoColor=white"/></a>
 </p>
 
