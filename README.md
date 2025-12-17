@@ -2,8 +2,8 @@
 <!--  FULL STACK DEVELOPER -->
 <!-- ===================== -->
 
-<h1 align="center">Hi 👋, I'm <span style="color:#6C63FF;">Your Name</span></h1>
-<h3 align="center">Full-Stack Developer • UI/UX Enthusiast • Design-Driven Builder</h3>
+<h1 align="center">Hi 👋, I'm <span style="color:#6C63FF;">Izumi</span></h1>
+<h3 align="center">Full-Stack Developer • Code Enthusiast • Design-Driven Builder</h3>
 
 <p align="center">
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
@@ -18,7 +18,7 @@
 ```ts
 const developer = {
   role: "Full Stack Developer",
-  mindset: "Design First, Code Second",
+  mindset: "Code First, Design Second",
   passions: ["Clean UI", "Scalable Systems", "Smooth UX"],
   coffeeLevel: "☕☕☕☕"
 }
