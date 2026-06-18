@@ -1,6 +1,7 @@
 <!-- ===================== -->
 <!--  FULL STACK DEVELOPER -->
 <!-- ===================== -->
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://www.linkedin.com/in/altaf-hussain-325967324)
 
 
 <h1 align="center">Hi 👋, I'm <span style="color:#6C63FF;">Izumi</span></h1>
