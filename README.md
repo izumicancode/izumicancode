@@ -1,6 +1,9 @@
 <!-- ===================== -->
 <!--  FULL STACK DEVELOPER -->
 <!-- ===================== -->
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHdpZjkxMG14OTRiaWhkMzFqejhmcW5qdng2NjZxdXhobW9kZ20ycCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5Zesu5VPNGJlm/giphy.gif
+
+
 
 <h1 align="center">Hi 👋, I'm <span style="color:#6C63FF;">Izumi</span></h1>
 <h3 align="center">Full-Stack Developer • Code Enthusiast • Design-Driven Builder</h3>
