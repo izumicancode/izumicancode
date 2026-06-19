@@ -16,7 +16,7 @@
 
 ## 🎨 About Me
 
-``ts
+```ts
 const developer = {
   role: "Full Stack Developer",
   mindset: "Code First, Design Second",
@@ -25,4 +25,12 @@ const developer = {
 
 
 }
+```
+## 📊 GitHub Analytics
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=izumicancode&show_icons=true&theme=radical&hide_border=true&count_private=true" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=izumicancode&theme=radical&hide_border=true" width="400" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izumicancode&layout=compact&theme=radical&hide_border=true" width="400" />
+  <br/>
