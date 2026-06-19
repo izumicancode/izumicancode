@@ -16,7 +16,7 @@
 
 ## 🎨 About Me
 
-ts
+``ts
 const developer = {
   role: "Full Stack Developer",
   mindset: "Code First, Design Second",
