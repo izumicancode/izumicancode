@@ -14,18 +14,6 @@
 </p>
 
 ---
-
-## 🎨 About Me
-
-```ts
-const developer = {
-  role: "Full Stack Developer",
-  mindset: "Code First, Design Second",
-  passions: ["Clean UI", "Scalable Systems", "Smooth UX"],
-  coffeeLevel: "☕☕☕☕"
-}
-
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -36,3 +24,15 @@ const developer = {
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=izumifreelance&theme=radical&no-frame=true&row=1&&margin-w=20&no-bg=true" width="800" />
 </div>
+
+## 🎨 About Me
+
+```ts
+const developer = {
+  role: "Full Stack Developer",
+  mindset: "Code First, Design Second",
+  passions: ["Clean UI", "Scalable Systems", "Smooth UX"],
+ coffeeLevel: "☕☕☕☕"
+
+
+}
