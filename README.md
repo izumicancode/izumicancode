@@ -17,12 +17,12 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=izumifreelance&show_icons=true&theme=radical&hide_border=true&count_private=true" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=izumifreelance&theme=radical&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=izumicancode&show_icons=true&theme=radical&hide_border=true&count_private=true" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=izumicancode&theme=radical&hide_border=true" width="400" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izumifreelance&layout=compact&theme=radical&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izumicancode&layout=compact&theme=radical&hide_border=true" width="400" />
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=izumifreelance&theme=radical&no-frame=true&row=1&&margin-w=20&no-bg=true" width="800" />
+  <img src="https://github-profile-trophy.vercel.app/?username=izumicancode&theme=radical&no-frame=true&row=1&&margin-w=20&no-bg=true" width="800" />
 </div>
 
 ## 🎨 About Me
