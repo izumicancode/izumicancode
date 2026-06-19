@@ -38,6 +38,6 @@ const developer = {
   <h2>⚡ My Contributions ⚡</h2>
   <br>
   <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=izumiFreelance&theme=radical&hide_border=true&area=true&point=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=izumicancode&theme=radical&hide_border=true&area=true&point=true" width="100%" />
   <br/><br/>
  </div>
