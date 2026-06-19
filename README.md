@@ -26,4 +26,4 @@ const developer = {
 
 }
 ```
- <img src="https://komarev.com/ghpvc/?username=izumifreelance&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+ <img src="https://komarev.com/ghpvc/?username=izumicancode&style=for-the-badge&color=blueviolet" alt="Profile Views" />
