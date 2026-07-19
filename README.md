@@ -21,7 +21,7 @@ const developer = {
   role: "Full Stack Developer",
   mindset: "Code First, Design Second",
   passions: ["Clean UI", "Scalable Systems", "Smooth UX"],
- coffeeLevel: "☕☕☕☕"
+ coffeeLevel: "☕☕☕☕+"
 
 
 }
