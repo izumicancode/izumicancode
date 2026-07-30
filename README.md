@@ -127,5 +127,11 @@ const developer = {
 </details>
 </div>
 
+<hr>
+📈 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/izumicancode" alt="GitHub Contribution Chart" />
+</p>
 
  <img src="https://komarev.com/ghpvc/?username=izumicancode&style=for-the-badge&color=blueviolet" alt="Profile Views" />
