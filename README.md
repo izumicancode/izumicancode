@@ -111,16 +111,6 @@ const developer = {
 ![RAG](https://img.shields.io/badge/RAG-4F46E5?style=for-the-badge)
 ![Vector DB](https://img.shields.io/badge/Vector_Databases-10B981?style=for-the-badge)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
-![Windsur<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=izumifreelance&show_icons=true&theme=radical&hide_border=true&count_private=true" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=izumifreelance&theme=radical&hide_border=true" width="400" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izumifreelance&layout=compact&theme=radical&hide_border=true" width="400" />
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=izumifreelance&theme=radical&no-frame=true&row=1&&margin-w=20&no-bg=true" width="800" />
-</div>f](https://img.shields.io/badge/Windsurf-1E40AF?style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
 </details>
 
 <details open>
@@ -135,10 +125,6 @@ const developer = {
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
 
 </details>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=izumicancode&show_icons=true&theme=radical&hide_border=true&count_private=true" width="400" />
 </div>
 
 
