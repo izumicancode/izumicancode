@@ -13,7 +13,7 @@
         <a href="mailto:altavhusayn+contact@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter/X-000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://twitter.com/xxRokanxx"><img src="https://img.shields.io/badge/Twitter/X-000?style=for-the-badge&logo=x&logoColor=white"/></a>
 </p>
 
 ## 🎨 About Me
