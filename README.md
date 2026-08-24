@@ -19,7 +19,7 @@
 ```ts
 const developer = {
   role: "Full Stack Developer",
-  mindset: "Code First, Design Second",
+  mindset: "Code First, Design Second, Open-Source",
   passions: ["Clean UI", "Scalable Systems", "Smooth UX"],
  coffeeLevel: "☕☕☕☕"
 
